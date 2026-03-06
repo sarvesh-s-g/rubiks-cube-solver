@@ -126,7 +126,7 @@ After solving, you'll be shown the move sequence and can verify it was applied c
 
 ---
 
-## � Move Notation
+## 🎲 Move Notation
 
 The solver uses standard **Rubik's Cube Notation** (Singmaster notation). Each letter represents a face, and the suffix indicates direction:
 
@@ -156,7 +156,7 @@ The solver uses standard **Rubik's Cube Notation** (Singmaster notation). Each l
 
 ---
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Component | Technology |
 |---|---|
