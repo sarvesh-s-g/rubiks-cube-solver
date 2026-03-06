@@ -20,7 +20,7 @@ A **C++ application** that scans a physical Rubik's Cube using a webcam, identif
 ## ✨ Features
 
 - **3 Input Modes:**
-  - 📷 **Camera Scan** — Point webcam at each face to auto-detect colors
+  - 📷 **Camera Scan** — Point webcam at each face to auto-detect colors and press space-bar to capture that face
   - ⌨️ **Manual Entry** — Type colors face by face
   - 🎲 **Random Scramble** — Generate a random scramble (up to 13 moves) for testing
 - **Optimal Solver** — Finds the shortest possible solution using IDA\*
