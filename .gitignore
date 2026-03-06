@@ -1,0 +1,23 @@
+# ─── Compiled output ─────────────────────────
+*.obj
+*.o
+*.exe
+*.ilk
+*.pdb
+*.exp
+*.lib
+
+# ─── OpenCV DLL (everyone installs their own) ─
+*.dll
+
+# ─── VS build artifacts ───────────────────────
+.vs/
+build/
+out/
+x64/
+Debug/
+Release/
+
+.DS_Store
+Thumbs.db
+desktop.ini
